@@ -1,6 +1,6 @@
 import turtle
 import random
-
+ 
 distance = 0
 direction = 0
 angle = 90
