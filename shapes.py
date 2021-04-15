@@ -1,6 +1,5 @@
 import turtle
 import random
-import numpy as np
 
 color_choices = ["cyan", "white", "light green", "green", "purple", "pink", "red", "orange"]
 #Turtle necessary setup
