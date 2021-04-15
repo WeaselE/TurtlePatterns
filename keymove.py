@@ -1,24 +1,23 @@
 import turtle
-import random
 
 tim = turtle.Turtle()
 tim.speed(0)
 
 def up():
     tim.setheading(90)
-    tim.forward(100)
+    tim.forward(10)
 
 def down():
     tim.setheading(270)
-    tim.forward(100)
+    tim.forward(10)
 
 def left():
     tim.setheading(180)
-    tim.forward(100)
+    tim.forward(10)
 
 def right():
     tim.setheading(0)
-    tim.forward(100)
+    tim.forward(10)
 
 turtle.listen()
 
